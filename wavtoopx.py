@@ -33,9 +33,6 @@ def main():
                         nargs='?',
                         help='OP-1/OP-Z AIFF output file',
                         default=sys.stdout) 
-    #parser.add_argument('-c', '--create',
-                        #action='store_true',
-                        #help='create an empty instrument definition')
     ## set channel in source
 
     group = parser.add_mutually_exclusive_group()
