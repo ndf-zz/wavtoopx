@@ -24,32 +24,5 @@ USAGE:
 OVERVIEW:
 ---------
 
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-
-A
-
-A
-
+Convert the supplied input audio file to AIFF and add the Teenage
+OP-1/OP-Z JSON blob.
